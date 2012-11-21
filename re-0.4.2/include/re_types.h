@@ -53,9 +53,9 @@ typedef long     ssize_t;
 #endif
 
 
-#ifndef WIN32
-typedef uint32_t socklen_t;
-#endif
+//#ifndef WIN32
+//typedef uint32_t socklen_t;
+//#endif
 #endif
 
 
